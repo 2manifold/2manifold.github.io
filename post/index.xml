@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Posts on Academic</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>http://example.org/post/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/readme/</guid>
-      <description>CASPER theme for hugo Casper is a single-column theme for Hugo. Ported from Casper theme for Ghost 
-blog demo : http://vjeantet.fr blog source : https://github.com/vjeantet/vjeantet.fr
-Features  Google Analytics (optional) Disqus ( can disable comments by content) Share buttons on Facebook, Twitter, Google (can disable share by content) Big cover image (optional) Custom cover by content (optional) Tagging Pagination Menu Syntax Highlighting  Theme usage and asumptions  All blog posts are in the post folder (content/post) The homepage displays a paginated list of contents from the post Section (other contents may be added to main menu, see bellow)  Installation Installing this theme mkdir themes cd themes git clone https://github.</description>
-    </item>
     
   </channel>
 </rss>
