@@ -3,17 +3,137 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/authors/yimin-wang/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hanchuan-peng/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hongkui-zeng/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lijuan-liu/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lingsheng-kong/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-hawrylycz/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ning-zhong/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qi-li/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/qingming-luo/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/renjie-chai/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/teravr-reconstruction/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wei-xie/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/xiangfeng-luo/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yike-guo/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yun-wang/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhi-zhou/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhongze-gu/</loc>
+    <lastmod>2019-07-01T21:23:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -23,15 +143,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>
