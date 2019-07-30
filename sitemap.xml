@@ -3,12 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yi-min.wang/authors/admin/</loc>
+    <loc>https://yi-min.wang/docs_example/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/docs_example/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/docs_example/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/publication_types/2/</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yi-min.wang/authors/</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/publication_types/</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/publication/</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/publication/teravr/</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/authors/y.-wang/</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/authors/et-al./</loc>
+    <lastmod>2019-08-02T23:09:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/project/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/tags/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/tags/visualization/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/project/visualization-of-brain-image-big-data/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/publication_types/3/</loc>
+    <lastmod>2019-06-20T23:09:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/publication/claustrum/</loc>
+    <lastmod>2019-06-20T23:09:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/authors/yun-wang/</loc>
+    <lastmod>2019-06-20T23:09:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/authors/admin/</loc>
   </url>
   
   <url>
@@ -17,30 +113,19 @@
   </url>
   
   <url>
+    <loc>https://yi-min.wang/docs_example/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yi-min.wang/patent/</loc>
+  </url>
+  
+  <url>
     <loc>https://yi-min.wang/post/</loc>
   </url>
   
   <url>
-    <loc>https://yi-min.wang/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yi-min.wang/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://yi-min.wang/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yi-min.wang/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yi-min.wang/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
