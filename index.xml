@@ -94,12 +94,32 @@
     </item>
     
     <item>
-      <title>Visualization of Brain Image Big Data</title>
-      <link>https://yi-min.wang/project/visualization-of-brain-image-big-data/</link>
+      <title>Automatic Neuron Reconstruction</title>
+      <link>https://yi-min.wang/project/automatic-neuron-reconstruction/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yi-min.wang/project/visualization-of-brain-image-big-data/</guid>
+      <guid>https://yi-min.wang/project/automatic-neuron-reconstruction/</guid>
+      <description>&lt;p&gt;Reconstructing neuronal morphologies from whole-brain imaging data using automatic algorithms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immersive Visualization of Brain Image Big Data</title>
+      <link>https://yi-min.wang/project/immersive-visualization-of-brain-image-big-data/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yi-min.wang/project/immersive-visualization-of-brain-image-big-data/</guid>
       <description>&lt;p&gt;The terabyte-scale imaging data visualization problem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuron Morphology Generation</title>
+      <link>https://yi-min.wang/project/neuron-morphology-generation/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yi-min.wang/project/neuron-morphology-generation/</guid>
+      <description>&lt;p&gt;Generating authentic neuron morphologies using deep learning.&lt;/p&gt;
 </description>
     </item>
     
@@ -109,6 +129,87 @@
       <pubDate>Thu, 20 Jun 2019 23:09:28 +0800</pubDate>
       
       <guid>https://yi-min.wang/publication/claustrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto Focus Device And Method For Liquid Crystal Display</title>
+      <link>https://yi-min.wang/patent/us9835930b2/</link>
+      <pubDate>Tue, 05 Dec 2017 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us9835930b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Producing Sounds In A Virtual World And Related Sound Card</title>
+      <link>https://yi-min.wang/patent/us9564115b2/</link>
+      <pubDate>Tue, 07 Feb 2017 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us9564115b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing software performance tests based on a distributed virtual machine system</title>
+      <link>https://yi-min.wang/patent/us9529693b2/</link>
+      <pubDate>Tue, 27 Dec 2016 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us9529693b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creation of rhythmic password and authentication based on rhythmic password</title>
+      <link>https://yi-min.wang/patent/us9454655b2/</link>
+      <pubDate>Tue, 27 Sep 2016 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us9454655b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and apparatus for processing three-dimensional model data</title>
+      <link>https://yi-min.wang/patent/us9135749b2/</link>
+      <pubDate>Tue, 15 Sep 2015 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us9135749b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling discrete event simulation</title>
+      <link>https://yi-min.wang/patent/us9053263b2/</link>
+      <pubDate>Tue, 09 Jun 2015 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us9053263b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building controllable clairvoyance device in virtual world</title>
+      <link>https://yi-min.wang/patent/us8970586b2/</link>
+      <pubDate>Tue, 03 Mar 2015 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us8970586b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and apparatus for search in virtual world</title>
+      <link>https://yi-min.wang/patent/us8933939b2/</link>
+      <pubDate>Tue, 13 Jan 2015 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us8933939b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and system for providing images of a virtual world scene and method and system for processing the same</title>
+      <link>https://yi-min.wang/patent/us8854391b2/</link>
+      <pubDate>Tue, 07 Oct 2014 23:09:28 +0800</pubDate>
+      
+      <guid>https://yi-min.wang/patent/us8854391b2/</guid>
       <description></description>
     </item>
     
