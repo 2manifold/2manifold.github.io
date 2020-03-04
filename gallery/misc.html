@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, user-scalable=no" />
+      <title>Neuron Morphology Video Gallery - misc</title>
+      <link rel="stylesheet" href="public/lightgallery/css/lightgallery.css" />
+      <link rel="stylesheet" href="public/lightgallery/css/lg-exif.min.css" />
+      <link rel="stylesheet" href="public/videojs/video-js.min.css" />
+      <link rel="stylesheet" href="public/core.css" />
+      <link rel="stylesheet" href="public/theme.css" />
+  </head>
+
+  <body>
+
+    <header>
+      <a href="index.html">
+        <h1>Neuron Morphology Video Gallery</h1>
+      </a>
+    </header>
+    
+    <!--
+      Breadcrumbs of parent albums
+    -->
+      <nav class="breadcrumbs">
+    <a class="breadcrumb-item" href="index.html">Home</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a class="breadcrumb-item" href="misc.html">misc</a>
+      </nav>
+    
+    <ul id="galleries">
+    </ul>
+    
+    <ul id="media">
+        
+          <li data-html="#media7"
+              data-download-url="media/large/misc/video2.mp4">
+            <a href="media/large/misc/video2.mp4">
+              <img src="media/thumbs/misc/video2.jpg"
+                   width="120"
+                   height="120"
+                   alt="video2.mp4" />
+            </a>
+            <img class="video-overlay" src="public/play.png" />
+          </li>    
+          <li data-src="media/large/misc/berlin1.jpg"
+              data-sub-html=""
+              data-download-url="media/large/misc/berlin1.jpg"
+              
+              data-filename="berlin1.jpg"
+        
+            >
+            <a href="media/large/misc/berlin1.jpg">
+              <img src="media/thumbs/misc/berlin1.jpg"
+                   width="120"
+                   height="120"
+                   alt="berlin1.jpg" />
+            </a>
+          </li>    
+          <li data-src="media/large/misc/17302_00001.jpg"
+              data-sub-html=""
+              data-download-url="media/large/misc/17302_00001.jpg"
+              
+              data-filename="17302_00001.jpg"
+        
+            >
+            <a href="media/large/misc/17302_00001.jpg">
+              <img src="media/thumbs/misc/17302_00001.jpg"
+                   width="120"
+                   height="120"
+                   alt="17302_00001.jpg" />
+            </a>
+          </li>    
+          <li data-src="media/large/misc/17302_00002.jpg"
+              data-sub-html=""
+              data-download-url="media/large/misc/17302_00002.jpg"
+              
+              data-filename="17302_00002.jpg"
+        
+            >
+            <a href="media/large/misc/17302_00002.jpg">
+              <img src="media/thumbs/misc/17302_00002.jpg"
+                   width="120"
+                   height="120"
+                   alt="17302_00002.jpg" />
+            </a>
+          </li>    
+          <li data-src="media/large/misc/17302_00003.jpg"
+              data-sub-html=""
+              data-download-url="media/large/misc/17302_00003.jpg"
+              
+              data-filename="17302_00003.jpg"
+        
+            >
+            <a href="media/large/misc/17302_00003.jpg">
+              <img src="media/thumbs/misc/17302_00003.jpg"
+                   width="120"
+                   height="120"
+                   alt="17302_00003.jpg" />
+            </a>
+          </li>    
+          <li data-src="media/large/misc/17302_00023.jpg"
+              data-sub-html=""
+              data-download-url="media/large/misc/17302_00023.jpg"
+              
+              data-filename="17302_00023.jpg"
+        
+            >
+            <a href="media/large/misc/17302_00023.jpg">
+              <img src="media/thumbs/misc/17302_00023.jpg"
+                   width="120"
+                   height="120"
+                   alt="17302_00023.jpg" />
+            </a>
+          </li>    
+          <li data-src="media/large/misc/17302_00059.jpg"
+              data-sub-html=""
+              data-download-url="media/large/misc/17302_00059.jpg"
+              
+              data-filename="17302_00059.jpg"
+        
+            >
+            <a href="media/large/misc/17302_00059.jpg">
+              <img src="media/thumbs/misc/17302_00059.jpg"
+                   width="120"
+                   height="120"
+                   alt="17302_00059.jpg" />
+            </a>
+          </li></ul>
+    
+    <!--
+      Optional footer
+    -->
+    <!-- Video loader -->
+    <div id="videos">
+          <div id="media7" style="display:none;">
+            <video class="lg-video-object lg-html5 video-js vjs-default-skin vjs-big-play-centered"  poster="media/large/misc/video2.jpg" preload="none" controls>
+              <source src="media/large/misc/video2.mp4" type="video/mp4" />
+              Your browser does not support HTML5 video
+            </video>
+          </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="public/jquery.min.js"></script>
+    <!-- VideoJS -->
+    <script src="public/videojs/video.min.js"></script>
+    <!-- LightGallery -->
+    <script src="public/lightgallery/js/lightgallery.js"></script>
+    <script src="public/lightgallery/js/lg-autoplay.js"></script>
+    <script src="public/lightgallery/js/lg-pager.js"></script>
+    <script src="public/lightgallery/js/lg-thumbnail.js"></script>
+    <script src="public/lightgallery/js/lg-video.js"></script>
+    <script src="public/lightgallery/js/lg-exif.min.js"></script>
+
+    <script>
+      $(document).ready(function() {
+        $("#media").lightGallery({
+          thumbWidth: 80,
+          controls: true,
+          loop : false,
+          download: true,
+          counter: true,
+          videojs: true
+        });
+      });
+    </script>
+
+
+  </body>
+
+</html>
